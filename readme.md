@@ -32,3 +32,16 @@ A lightweight, high-performance web interface for interacting with Large Languag
    git clone [https://github.com/harshraj152003/llm-playground-web.git](https://github.com/harshraj152003/llm-playground-web.git)
    cd llm-playground-web
    ```
+
+---
+
+```bash
+Run Locally:
+-- Simply open index.html in your favorite web browser (or use VS Code's Live Server extension).
+```
+
+**Configure API Key**:
+
+- Get an API key from OpenRouter.ai.
+- Click API & App Settings in the application sidebar.
+- Paste your API key (sk-or-v1-...) and start chatting!
